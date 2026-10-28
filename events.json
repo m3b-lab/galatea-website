@@ -1,0 +1,89 @@
+{
+  "events": [
+    {
+      "id": "kickoff-turin-2024",
+      "date": "2024-10-09",
+      "title": "GALATEA Kick-off Meeting",
+      "subtitle": "Digital Twin for Tailored Infant Nutrition: Vision, Structure, and Implementation",
+      "city": "Turin",
+      "country": "Italy",
+      "category": "Consortium meeting",
+      "description": "The inaugural consortium meeting introduced GALATEA's scientific objectives, project structure, milestones and partner roles, with a focus on the digital twin framework for tailored infant nutrition.",
+      "url": null,
+      "agenda_url": null,
+      "image_url": null,
+      "year": 2024
+    },
+    {
+      "id": "bridging-scales-turin-2025",
+      "date": "2025-01-10",
+      "title": "Bridging Scales",
+      "subtitle": "Computational Biophysics, Subcellular Mechanics, and Medicine",
+      "city": "Turin",
+      "country": "Italy",
+      "category": "Training",
+      "description": "A training event on computational biophysics, molecular modelling and multiscale approaches to biomedical research, including applications in medicine and drug design.",
+      "url": null,
+      "agenda_url": null,
+      "image_url": null,
+      "year": 2025
+    },
+    {
+      "id": "nutrition-cadiz-2025",
+      "date": "2025-09-12",
+      "title": "The Role of Nutrition in Infants and Paediatric Diseases",
+      "subtitle": "Clinics, Omics, and Molecules",
+      "city": "Cádiz",
+      "country": "Spain",
+      "category": "Knowledge transfer",
+      "description": "An international event examining infant nutrition through clinical research, omics approaches and computational methods for characterizing human milk.",
+      "url": null,
+      "agenda_url": "https://galateahe.eu/wp-content/uploads/2025/09/2025-09-16-GALATEA_TOK_Cadiz_Agenda_02.pdf",
+      "image_url": null,
+      "year": 2025
+    },
+    {
+      "id": "knowledge-athens-2026",
+      "date": "2026-03-11",
+      "title": "Scientific Alignment, Mobility Experiences and Network Synergies",
+      "subtitle": "GALATEA Transfer of Knowledge Event",
+      "city": "Athens",
+      "country": "Greece",
+      "category": "Knowledge transfer",
+      "description": "GALATEA beneficiaries and associated partners discussed scientific alignment across work packages, training and mobility experiences, and opportunities for collaboration.",
+      "url": null,
+      "agenda_url": null,
+      "image_url": null,
+      "year": 2026
+    },
+    {
+      "id": "midterm-athens-2026",
+      "date": "2026-03-12",
+      "title": "GALATEA Mid-Term Meeting",
+      "subtitle": "Project progress, challenges and knowledge sharing",
+      "city": "Athens",
+      "country": "Greece",
+      "category": "Consortium meeting",
+      "description": "Consortium partners, seconded staff and the Project Officer reviewed research progress, implementation milestones, mobility, dissemination and upcoming activities.",
+      "url": null,
+      "agenda_url": null,
+      "image_url": null,
+      "year": 2026
+    },
+    {
+      "id": "consortium-gdansk-2027",
+      "date": null,
+      "year": 2027,
+      "status": "upcoming",
+      "title": "GALATEA Consortium Meeting",
+      "subtitle": "Date to be confirmed",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "category": "Consortium meeting",
+      "description": "A GALATEA consortium meeting is planned in Gdańsk in 2027. The date, programme and further details will be announced when confirmed.",
+      "url": null,
+      "agenda_url": null,
+      "image_url": null
+    }
+  ]
+}
