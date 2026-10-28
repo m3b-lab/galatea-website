@@ -1,4 +1,76 @@
-
 {
-  "publications": []
+  "publications": [
+    {
+      "title": "Artificial intelligence in breast cancer imaging: a systematic review of detection, segmentation, explainability, and clinical translation",
+      "authors": "Iqra Iqbal Khan, Syed Adil Hussain Shah, Alexandra Tsipourakis, Marta Malavolta, Aleesha Aleesha, Syed Baqir Hussain Shah, Mozhdeh Hajiani, Andrea Buccoliero, Konstantinos Panagiotopoulos, Syed Taimoor Hussain Shah, Marco Agostino Deriu",
+      "year": 2026,
+      "journal": "Frontiers in Imaging",
+      "type": "journal-article",
+      "doi": "https://doi.org/10.3389/fimag.2026.1910013",
+      "zenodo": null
+    },
+    {
+      "title": "Modeling conformational transitions in DNA, RNA, and protein-nucleic acid complexes",
+      "authors": "Domenico Scaramozzino, Marco Cannariato, Byung Ho Lee, Marco A. Deriu, Laura Orellana",
+      "year": 2026,
+      "journal": "Nucleic Acids Research",
+      "type": "journal-article",
+      "doi": "https://doi.org/10.1093/nar/gkag807",
+      "zenodo": null
+    },
+    {
+      "title": "EMI-EDU: reframing learning and education through energy, mass and information",
+      "authors": "Tommaso Firaux, Paola Damiani, Marco Cavaglià",
+      "year": 2026,
+      "journal": "Frontiers in Human Neuroscience",
+      "type": "journal-article",
+      "doi": "https://doi.org/10.3389/fnhum.2026.1761644",
+      "zenodo": null
+    },
+    {
+      "title": "Artificial intelligence applied to post-resuscitation ECGs for early prognostication after out-of-hospital cardiac arrest",
+      "authors": "Francesca R. Gentile, Syed Taimoor Hussain Shah, Michela Sperti, Konstantinos Panagiotopoulos, Roberto Primi, Leila Ulmanova, Alessia Currao, Sara Bendotti, Enrico Baldi, David N. Bauer, Silvia M. Pontremoli, Gianluca Marconi, Marco A. Deriu, Simone Savastano",
+      "year": 2026,
+      "journal": "Frontiers in Cardiovascular Medicine",
+      "type": "journal-article",
+      "doi": "https://doi.org/10.3389/fcvm.2026.1765751",
+      "zenodo": null
+    },
+    {
+      "title": "An essential dynamics-based elastic network model to unravel the conformational dynamics of DNA, RNA, and protein-nucleic acid complexes",
+      "authors": "Marco Cannariato, Domenico Scaramozzino, Byung Ho Lee, Marco A. Deriu, Laura Orellana",
+      "year": 2026,
+      "journal": "bioRxiv",
+      "type": "preprint",
+      "doi": "https://doi.org/10.64898/2026.03.11.710985",
+      "zenodo": null
+    },
+    {
+      "title": "Explainable Emotion Recognition Using Xception-Based Feature Extraction and Supervised Machine Learning on the RAVDESS Dataset",
+      "authors": "Syed Taimoor Hussain Shah, Syed Adil Hussain Shah, Konstantinos Panagiotopoulos, Janet Pigueiras-del-Real, Kainat Qayyum, Syed Baqir Hussain Shah, Andrea Buccoliero, Angelo Di Terlizzi, Marco Agostino Deriu",
+      "year": 2025,
+      "journal": "2025 IEEE International Symposium on Medical Measurements and Applications (MeMeA)",
+      "type": "conference-paper",
+      "doi": "https://doi.org/10.1109/memea65319.2025.11068008",
+      "zenodo": null
+    },
+    {
+      "title": "Exploring TAS2R46 biomechanics through molecular dynamics and network analysis",
+      "authors": "Marco Cannariato, Riccardo Fanunza, Eric A. Zizzi, Marcello Miceli, Giacomo Di Benedetto, Marco A. Deriu, Lorenzo Pallante",
+      "year": 2024,
+      "journal": "Frontiers in Molecular Biosciences",
+      "type": "journal-article",
+      "doi": "https://doi.org/10.3389/fmolb.2024.1473675",
+      "zenodo": null
+    },
+    {
+      "title": "Exploring TAS2R46 Biomechanics through Molecular Dynamics and Network Analysis",
+      "authors": "Marco Cannariato, Riccardo Fanunza, Eric Adriano Zizzi, Marcello Miceli, Giacomo Di Benedetto, Marco Agostino Deriu, Lorenzo Pallante",
+      "year": 2023,
+      "journal": "bioRxiv",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1101/2023.11.21.568072",
+      "zenodo": null
+    }
+  ]
 }
