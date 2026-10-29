@@ -209,39 +209,5 @@
       "doi": "https://doi.org/10.56280/1702827275",
       "zenodo": "https://zenodo.org/records/20344624"
     },
-    {
-      "title": "Exploring TAS2R46 biomechanics through molecular dynamics and network analysis",
-      "authors": [
-        "Marco Cannariato",
-        "Riccardo Fanunza",
-        "Eric A. Zizzi",
-        "Marcello Miceli",
-        "Giacomo Di Benedetto",
-        "Marco A. Deriu",
-        "Lorenzo Pallante"
-      ],
-      "year": 2024,
-      "journal": "Frontiers in Molecular Biosciences",
-      "type": "article",
-      "doi": "https://doi.org/10.3389/fmolb.2024.1473675",
-      "zenodo": null
-    },
-    {
-      "title": "Exploring TAS2R46 Biomechanics through Molecular Dynamics and Network Analysis",
-      "authors": [
-        "Marco Cannariato",
-        "Riccardo Fanunza",
-        "Eric A. Zizzi",
-        "Marcello Miceli",
-        "Giacomo Di Benedetto",
-        "Marco A. Deriu",
-        "Lorenzo Pallante"
-      ],
-      "year": 2023,
-      "journal": "bioRxiv",
-      "type": "preprint",
-      "doi": "https://doi.org/10.1101/2023.11.21.568072",
-      "zenodo": null
-    }
   ]
 }
